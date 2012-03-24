@@ -46,13 +46,12 @@ which is based on the `dis.py` file in the Python Standard Library.
 
 # AUTHOR
 
-Gregor N. Purdy <gregor@focusresearch.com>
+Gregor N. Purdy, Sr. <gnp@acm.org<gt>
 
 # COPYRIGHT
 
-Copyright (C) 2003 Gregor N. Purdy. All rights reserved.
+Copyright (C) 2003-2012 Gregor N. Purdy, Sr. All rights reserved.
 
 # LICENSE
 
 This program is free software. Its use is subject to the same license as Perl.
-

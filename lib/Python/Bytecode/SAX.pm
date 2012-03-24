@@ -46,11 +46,11 @@ L<Python::Bytecode> by Simon Cozens E<lt>simon@cpan.orgE<gt>.
 
 =head1 AUTHOR
 
-Gregor N. Purdy E<lt>gregor@focusresearch.comE<gt>
+Gregor N. Purdy, Sr. E<lt>gnp@acm.org<gt>
 
 =head1 COPYRIGHT
 
-Copyright (C) 2003 Gregor N. Purdy. All rights reserved.
+Copyright (C) 2003-2012 Gregor N. Purdy, Sr. All rights reserved.
 
 =head1 LICENSE
 
